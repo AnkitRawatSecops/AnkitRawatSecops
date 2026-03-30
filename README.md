@@ -6,11 +6,11 @@
 
 I'm a passionate **[Security Consultant]** with experience in **[DevSecops]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[Devops(Git and hithub]**
+- 🔭 Working on: **[Insurance]**
+- 🌍 Languages: **[Hindi and English]**
+- 📫 How to reach me: **[ankirawat92@gmail.com]**
+- ⚡ Fun fact: **[Traveller]**
 
 ## My Skills 🧠
 
